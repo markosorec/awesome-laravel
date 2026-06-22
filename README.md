@@ -31,6 +31,7 @@
 
 ## Open-Source Apps
 * [solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
+* [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui + Tailwind v4, with REST API v1, HMAC-signed webhooks, and headless mode
 
 ## Directories
 * [builtwithfilament](https://builtwithfilament.com/) - A directory of websites built with Filament, the elegant TALL stack admin panel for Laravel artisans
