@@ -64,6 +64,21 @@
 
 ## News and Blogs
 * [Laravel News](https://laravel-news.com/) - Laravel News is the official blog of Laravel. Every day bringing you the latest news, tutorials, and packages for the framework.
+* [Laravel Blog](https://laravel.com/blog) - The official Laravel blog with framework, ecosystem, product, community, Laravel Cloud, and Laravel AI announcements and engineering stories.
+* [Laravel Daily](https://laraveldaily.com/) - Frequently updated Laravel tutorials, code examples, courses, package discoveries, performance guides, and short practical tips.
+* [Laravel.io Articles](https://laravel.io/articles) - Community-written Laravel and PHP articles covering architecture, packages, APIs, performance, testing, AI, and real-world problem solving.
+* [Mastering Laravel](https://masteringlaravel.io/daily) - Regular bite-sized Laravel tips and deeper explanations focused on testing, architecture, maintainability, debugging, and everyday development practices.
+* [Freek.dev](https://freek.dev/) - Freek Van der Herten's regularly updated blog about Laravel, PHP, open source, AI-assisted development, tooling, and lessons from building products at Spatie.
+* [Spatie Blog](https://spatie.be/blog) - Engineering articles from the Spatie team about Laravel, PHP, packages, application architecture, frontend development, open source, and AI workflows.
+* [Tighten Insights](https://tighten.com/insights/) - Laravel-focused engineering articles, tutorials, experiments, architecture advice, Livewire, frontend techniques, databases, and development tooling.
+* [Ash Allen Design](https://ashallendesign.co.uk/blog) - Practical Laravel and PHP articles covering clean code, performance, testing, security, framework features, tooling, and developer workflows.
+* [Benjamin Crozat](https://benjamincrozat.com/) - Frequently maintained Laravel and PHP guides covering releases, architecture, APIs, testing, security, performance, deployment, and best practices.
+* [Laravel Shift Blog](https://laravelshift.com/knowledge-base) - Laravel upgrade guidance, compatibility information, common migration issues, modernization techniques, and deep dives from the Laravel Shift team.
+* [Server Side Up](https://serversideup.net/blog/) - Development blog with practical Laravel, PHP, Docker, DevOps, Vue, self-hosting, deployment, and application architecture tutorials.
+* [Inspector.dev Blog](https://inspector.dev/blog/) - Laravel and PHP engineering articles focused on application monitoring, debugging, performance, observability, AI integrations, and production practices.
+* [Stitcher.io](https://stitcher.io/blog) - Brent Roose and guest authors write about modern PHP, language evolution, architecture, performance, type systems, and the wider PHP ecosystem.
+* [PHP.Watch](https://php.watch/) - Regular PHP news and technical analysis covering new releases, RFCs, language changes, extensions, deprecations, security, and upcoming features relevant to Laravel developers.
+* [PHP Architect](https://www.phparch.com/) - Long-running PHP publication with regularly released articles, magazine issues, ecosystem news, architecture, testing, tooling, and professional development topics.
 
 ## Podcasts
 * [Laravel News](https://podcast.laravel-news.com/) - The Laravel News podcast, with hosts Jacob Bennett and Michael Dyrynda, covers all the latest Laravel news, Packages, Events, and everything else new in the community.
