@@ -49,6 +49,15 @@
 ## Directories
 * [builtwithfilament](https://builtwithfilament.com/) - A directory of websites built with Filament, the elegant TALL stack admin panel for Laravel artisans
 * [wireinthewild](https://wireinthewild.com/) - Wire in the Wild - Real World Laravel Livewire Projects
+* [Laravel Links](https://laravel-news.com/links) - Continuously updated community feed of Laravel tutorials, packages, videos, tools and ideas.
+* [Laravel News Package Directory](https://laravel-news.com/category/packages) - Curated and frequently updated directory of Laravel packages, plugins and libraries.
+* [Laravel Daily Packages](https://laraveldaily.com/packages) - Manually curated Laravel package directory with compatibility, release and popularity information.
+* [LaravelPackages.net](https://laravelpackages.net/) - Searchable Laravel package and starter-kit directory with GitHub stars, download counts and newly indexed packages.
+* [LaraPlugins.io](https://laraplugins.io/) - Continuously analyzed Laravel package directory with maintenance health, compatibility and package-discovery filters.
+* [Filament Plugins](https://filamentphp.com/plugins) - Official Filament plugin directory with community packages, compatibility information and package health signals.
+* [LaraDevs](https://laradevs.com/) - Active directory of Laravel and PHP developers, searchable by skills, location, availability and experience.
+* [Packagist](https://packagist.org/) - The main Composer package repository and continuously updated package directory used throughout the Laravel and PHP ecosystem.
+* [Laramap](https://laramap.dev/) - Laramap is a community-driven map connecting Laravel artisans worldwide.
 
 ## People
 * [Taylor Otwell](https://x.com/taylorotwell) - Founder, CEO - @laravelphp
