@@ -74,4 +74,5 @@
 * [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
 * [Slightly Caffeinated](https://slightlycaffeinated.fm/) - Join Chris Gmyr and TJ Miller as they dive into the world of PHP, Laravel, and all things programming, while also sharing insights on family life and other musings.
 * [Idle Cursor](https://idlecursor.com/) - A podcast by Matt Stenson sharing thoughts when he is taking a break from code and life. Sometimes about Laravel, sometimes about devops, sometimes about tech, sometimes about something else.
-
+* [Mostly Technical](https://mostlytechnical.com/) - Ian Landsman and Aaron Francis discuss Laravel, software development, developer tools, business, and the realities of building products.
+* [The PHP Podcast](https://www.phparch.com/podcast/) - A frequently updated PHP community podcast from php[architect], covering PHP releases, tooling, Laravel, frameworks, AI, and developer news.
