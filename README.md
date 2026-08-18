@@ -18,6 +18,19 @@
 
 ## Admin Panels
 * [Filament](https://filamentphp.com/) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+* [Laravel Nova](https://nova.laravel.com/) - The official Laravel administration panel for building production-ready backends around Eloquent resources.
+* [Backpack for Laravel](https://backpackforlaravel.com/) - Highly customizable Laravel admin panel and CRUD framework with a large collection of fields, columns, filters and operations.
+* [Orchid](https://orchid.software/) - Free, open-source, code-driven Laravel platform for admin panels, dashboards and line-of-business applications.
+* [MoonShine](https://getmoonshine.app/) - Open-source Laravel admin panel for rapidly building back offices, dashboards, CMSs and CRUD interfaces.
+* [Laravilt](https://laravilt.com/) - Modern Laravel admin panel built with Vue 3, Inertia.js, Tailwind CSS and AI-oriented tooling.
+* [OpenAdmin](https://open-admin.org/) - Open-source Laravel administration interface builder for creating CRUD backends with a compact PHP API.
+* [Laravel Enso](https://docs.laravel-enso.com/) - Modular Laravel and Vue application platform for admin panels and business software.
+* [Sharp](https://sharp.code16.fr/) - Code-driven content management and admin framework for Laravel with a PHP-first API.
+* [Craftable PRO](https://craftable.pro/) - Laravel admin panel, CRM and CMS starter with a CRUD generator built around Inertia.js, Vue and Tailwind CSS.
+* [Voyager](https://voyager.devdojo.com/) - Laravel admin package with BREAD/CRUD operations, media management, menu building, roles, permissions and database tools.
+* [Lara Dashboard](https://laradashboard.com/) - Open-source modular Laravel admin panel and CMS with user management, roles, content tools and AI-oriented features.
+* [Litstack](https://litstack.io/) - Laravel administration framework for extending Eloquent models with CRUD functionality, forms, permissions and content-management tools.
+* [LaraAdmin](https://laraadmin.com/) - Open-source Laravel admin panel/CMS/CRM with CRUD generation, schema management and role-based access; primarily useful for older applications.
 
 ## Notable Packages
 * [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
