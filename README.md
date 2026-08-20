@@ -81,6 +81,11 @@
 
 ## Youtube Channels
 * [Official channel](https://www.youtube.com/@LaravelPHP) - The official YouTube channel of the Laravel PHP framework.
+* [Laracasts](https://www.youtube.com/@laracastsofficial) - Jeffrey Way and other instructors teach Laravel, PHP, testing, databases, frontend tooling, architecture, and complete application development through high-quality courses and screencasts.
+* [Laravel Daily](https://www.youtube.com/@LaravelDaily) - Povilas Korop publishes practical Laravel tutorials, framework features, package reviews, refactoring advice, Filament content, and real-world development tips.
+* [Laravel News](https://www.youtube.com/@laravelnews) - Laravel ecosystem news, release coverage, package discoveries, interviews, tutorials, conference content, and practical Laravel development videos.
+* [Codecourse](https://www.youtube.com/@codecourse) - Practical screencasts covering Laravel, Livewire, Inertia, Vue, Alpine.js, APIs, realtime applications, and full project builds.
+* [Aaron Francis](https://www.youtube.com/@aarondfrancis) - Laravel, PHP, databases, performance, application architecture, developer tooling, AI-assisted development, and detailed real-world engineering experiments.
 
 ## Books
 * [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com) - Consuming APIs in Laravel is your guide to building robust and powerful API integrations for your web applications.
