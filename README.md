@@ -14,7 +14,50 @@
 - [Podcasts](#podcasts)
 
 ## Laravel Ecosystem
-* [Official Laravel website](http://laravel.com) - Laravel is a PHP web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
+
+### Framework and Developer Tools
+
+* [Laravel](https://laravel.com/) - The official Laravel PHP application framework.
+* [Laravel Herd](https://herd.laravel.com/) - Official native Laravel development environment for macOS and Windows.
+* [Laravel Valet](https://laravel.com/docs/valet) - Lightweight Laravel development environment for macOS.
+* [Laravel Sail](https://laravel.com/docs/sail) - Official Docker-based local development environment for Laravel.
+* [Laravel Pint](https://laravel.com/docs/pint) - Opinionated PHP code style fixer maintained by Laravel.
+* [Laravel Boost](https://laravel.com/docs/boost) - Official Laravel tooling for improving AI-assisted application development.
+* [Laravel MCP](https://laravel.com/docs/mcp) - Official Laravel support for building Model Context Protocol servers.
+* [Laravel AI SDK](https://laravel.com/docs/ai-sdk) - Official Laravel SDK for integrating AI models and providers.
+* [Laravel Head](https://laravel.com/docs/head) - Official package for managing document metadata and head elements.
+* [Laravel Wayfinder](https://github.com/laravel/wayfinder) - Official type-safe route integration between Laravel and frontend applications.
+* [Laravel Prompts](https://laravel.com/docs/prompts) - Beautiful and user-friendly forms for command-line Laravel applications.
+* [Laravel Precognition](https://laravel.com/docs/precognition) - Provides live validation for frontend applications using Laravel validation rules.
+* [Laravel Folio](https://laravel.com/docs/folio) - Page-based routing system for Laravel applications.
+* [Laravel Envoy](https://laravel.com/docs/envoy) - Tool for running common deployment and server tasks using Blade-style syntax.
+
+### Products and Services
+
+* [Laravel Cloud](https://cloud.laravel.com/) - Official fully managed Laravel application platform.
+* [Laravel Forge](https://forge.laravel.com/) - Official server provisioning and application deployment service.
+* [Laravel Vapor](https://vapor.laravel.com/) - Official serverless deployment platform for Laravel on AWS.
+* [Laravel Nightwatch](https://nightwatch.laravel.com/) - Official Laravel application monitoring and observability platform.
+* [Laravel Nova](https://nova.laravel.com/) - Official administration panel for Laravel applications.
+* [Laravel Envoyer](https://envoyer.io/) - Official zero-downtime deployment service for PHP and Laravel applications.
+* [Laravel Spark](https://spark.laravel.com/) - Official billing and subscription management solution for Laravel SaaS applications.
+
+### Official Packages
+
+* [Laravel Cashier](https://laravel.com/docs/billing) - Subscription billing integration for Stripe.
+* [Laravel Dusk](https://laravel.com/docs/dusk) - Browser automation and end-to-end testing framework.
+* [Laravel Echo](https://laravel.com/docs/broadcasting) - JavaScript library for subscribing to Laravel broadcast events.
+* [Laravel Fortify](https://laravel.com/docs/fortify) - Headless authentication backend for Laravel applications.
+* [Laravel Horizon](https://laravel.com/docs/horizon) - Dashboard and configuration system for Redis-powered Laravel queues.
+* [Laravel Octane](https://laravel.com/docs/octane) - High-performance Laravel application server powered by FrankenPHP, Open Swoole, Swoole, or RoadRunner.
+* [Laravel Passport](https://laravel.com/docs/passport) - OAuth2 server implementation for Laravel applications.
+* [Laravel Pennant](https://laravel.com/docs/pennant) - Feature flag management package.
+* [Laravel Pulse](https://laravel.com/docs/pulse) - Application performance and usage insights dashboard.
+* [Laravel Reverb](https://laravel.com/docs/reverb) - First-party WebSocket server for Laravel applications.
+* [Laravel Sanctum](https://laravel.com/docs/sanctum) - Authentication system for SPAs, mobile applications, and API tokens.
+* [Laravel Scout](https://laravel.com/docs/scout) - Driver-based full-text search integration for Eloquent models.
+* [Laravel Socialite](https://laravel.com/docs/socialite) - OAuth authentication integration for third-party providers.
+* [Laravel Telescope](https://laravel.com/docs/telescope) - Debugging and application-inspection assistant for Laravel.
 
 ## Admin Panels
 * [Filament](https://filamentphp.com/) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
