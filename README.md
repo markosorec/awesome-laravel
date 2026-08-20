@@ -86,6 +86,39 @@
 * [Laravel News](https://www.youtube.com/@laravelnews) - Laravel ecosystem news, release coverage, package discoveries, interviews, tutorials, conference content, and practical Laravel development videos.
 * [Codecourse](https://www.youtube.com/@codecourse) - Practical screencasts covering Laravel, Livewire, Inertia, Vue, Alpine.js, APIs, realtime applications, and full project builds.
 * [Aaron Francis](https://www.youtube.com/@aarondfrancis) - Laravel, PHP, databases, performance, application architecture, developer tooling, AI-assisted development, and detailed real-world engineering experiments.
+* [Nuno Maduro](https://www.youtube.com/@nunomaduro) - Laravel core team member covering modern PHP, Laravel, Pest, developer tooling, open source, performance, and AI-assisted development.
+* [JustSteveKing](https://www.youtube.com/@JustSteveKing) - Deep-dive Laravel and PHP content focused on APIs, architecture, domain modelling, testing, performance, and real-world application design.
+* [The Codeholic](https://www.youtube.com/c/TheCodeholic) - Practical Laravel, PHP, testing, full-stack, deployment, databases, and project-based tutorials for beginner and intermediate developers.
+* [Code With Dary](https://www.youtube.com/@codewithdary) - Laravel and PHP tutorials ranging from fundamentals and APIs to Livewire, authentication, databases, and complete application builds.
+* [Program With Gio](https://www.youtube.com/@ProgramWithGio) - In-depth PHP and Laravel tutorials focused on understanding the framework properly, including architecture, databases, testing, APIs, service containers, and real-world application development.
+* [Andrew Schmelyun](https://www.youtube.com/@aschmelyun) - Practical Laravel, PHP, Docker, deployment, frontend integration, developer tooling, and experimental project videos with a strong real-world focus.
+* [Gary Clarke Tech](https://www.youtube.com/@GaryClarkeTech) - Detailed PHP and Laravel education covering testing, object-oriented programming, APIs, microservices, databases, clean code, and software engineering fundamentals.
+* [Freek Van der Herten](https://www.youtube.com/channel/UCNlUCA4VORBx8X-h-rXvXEg) - Laravel and PHP videos from the Spatie developer covering packages, open source, application design, coding practices, tooling, and modern development workflows.
+* [Christoph Rumpel](https://www.youtube.com/channel/UCdtd5QYBx9MUVXHm7qgEpxA) - Deep Laravel education focused on framework internals, the service container, request lifecycle, Livewire, PhpStorm, and modern AI-assisted development.
+* [Jason McCreary](https://www.youtube.com/channel/UCwCWebPzwbxGNjAIlJNk06w) - Laravel maintainability, testing, refactoring, upgrades, Git, Laravel Shift, Blueprint, and practical lessons from long-term application development.
+* [PHP Annotated](https://www.youtube.com/@phpannotated) - Active PHP community channel covering modern PHP, language features, performance, tooling, open source, and Laravel-related experiments and discussions.
+* [Laracon EU](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A) - Official channel for Europe's major Laravel conference, featuring conference livestreams, technical talks, framework announcements, and community presentations.
+* [Livewire](https://www.youtube.com/channel/UCOZzwlw1cmbrYRx4udFE0wQ) - Official Laravel Livewire channel with screencasts, framework demonstrations, release content, and videos about building reactive interfaces with PHP.
+* [NativePHP](https://www.youtube.com/@NativePHPOfficial) - Official NativePHP channel with regular livestreams and tutorials on building native desktop and mobile applications using PHP and Laravel.
+* [Tony Xhepa](https://www.youtube.com/@tony-xhepa) - Modern Laravel and Livewire tutorials covering reusable components, application architecture, AI-assisted workflows, packages, and complete project builds.
+* [Josh Cirre](https://www.youtube.com/@joshcirre) - Laravel developer advocate content covering Livewire, Laravel Cloud, NativePHP, AI integrations, modern Laravel features, and practical application development.
+* [Laravel Creative](https://www.youtube.com/@laravelcreative) - Laravel-focused tutorials and project builds covering modern framework versions, APIs, authentication, databases, and full-stack application development.
+* [Laracon India](https://www.youtube.com/@LaraconIndia) - Talks and recordings from one of the largest Laravel conferences, featuring Laravel core team members and developers discussing architecture, performance, AI, Livewire, tooling, and scaling.
+* [Traversy Media](https://www.youtube.com/@TraversyMedia) - Brad Traversy publishes highly regarded project-based web-development courses, including substantial PHP and Laravel crash courses and complete application builds.
+* [Code Step By Step](https://www.youtube.com/@codestepbystep) - Very active tutorial channel with complete Laravel courses, framework-version updates, APIs, authentication, Eloquent, projects, and interview-focused lessons.
+* [Webslesson](https://www.youtube.com/@webslesson) - Frequently updated Laravel, PHP, Filament, Livewire, MySQL, and project-based tutorials, including complete real-world management systems.
+* [Funda of Web IT](https://www.youtube.com/@FundaOfWebIT) - Practical Laravel, PHP, Vue, APIs, Sanctum, authentication, CRUD, and full-project tutorials with an emphasis on implementation.
+* [PHP Architect](https://www.youtube.com/@phparch) - Active PHP community channel featuring technical talks, podcast episodes, architecture discussions, tooling, testing, language developments, and Laravel-related topics.
+* [Stack Developers](https://www.youtube.com/@stackdevelopers) - Laravel and PHP tutorials covering ecommerce, APIs, authentication, admin systems, relationships, packages, and complete application series.
+* [Simplified Coding](https://www.youtube.com/@simplifiedcoding) - Active backend and mobile-development channel with Laravel API development, authentication, databases, deployment, and integration tutorials.
+* [code with SJM](https://www.youtube.com/@codewithsjm) - Very active Laravel channel focused on modern Laravel, Livewire, Filament, authentication, dashboards, and production-style project series.
+* [Web Tech Knowledge](https://www.youtube.com/@webtechknowledge) - Very active web-development channel with Laravel, PHP, APIs, database, authentication, deployment, and full-stack tutorials.
+* [Perfect Web Solutions](https://www.youtube.com/@perfectwebsolutions) - Laravel and PHP development tutorials covering framework features, APIs, integrations, troubleshooting, packages, and practical web projects.
+* [Programming Fields](https://www.youtube.com/@programmingfields) - Active Laravel and PHP tutorials covering CRUD applications, REST APIs, authentication, Livewire, databases, and common development tasks.
+* [Practical Coder](https://www.youtube.com/@practicalcoder) - Project-oriented Laravel and full-stack tutorials emphasizing practical implementation, modern tooling, APIs, and application development.
+* [Statamic](https://www.youtube.com/@statamic) - Official channel for the Laravel-powered Statamic CMS with tutorials, product demonstrations, addon development, and content-management workflows.
+* [JetBrains](https://www.youtube.com/@JetBrainsTV) - Official JetBrains channel with PhpStorm, PHP, debugging, testing, developer tooling, and increasingly deep first-class Laravel IDE coverage.
+* [International PHP Conference](https://www.youtube.com/@phpcon) - Conference channel with active PHP talks on architecture, performance, frameworks, databases, testing, security, and technologies relevant to Laravel developers.
 
 ## Books
 * [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com) - Consuming APIs in Laravel is your guide to building robust and powerful API integrations for your web applications.
